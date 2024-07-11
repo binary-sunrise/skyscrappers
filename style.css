@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dropdown-toggle::after{
+    float: inline-end;
+    margin-top:10px;
+}
+/* .zoomto-empireState { 
+    z-index: 1;
+    position: fixed;
+    top: 5px; 
+    left: 5px; 
+}
+
+#toggle-empireState { 
+    z-index: 1; 
+    position: fixed; 
+    top: 40px;
+    left: 5px; 
+}
+
+#zoomto-shanghaiTower { 
+    z-index: 1;
+    position: fixed;
+    top: 80px; 
+    left: 5px; 
+}
+
+#toggle-shanghaiTower { 
+    z-index: 1; 
+    position: fixed; 
+    top: 120px;
+    left: 5px; 
+}
+
+#zoomto-burjKhalifa { 
+    z-index: 1;
+    position: fixed;
+    top: 160px; 
+    left: 5px; 
+}
+
+#toggle-burjKhalifa { 
+    z-index: 1; 
+    position: fixed; 
+    top: 200px;
+    left: 5px; 
+}
+
+#zoomto-merdeka_118 { 
+    z-index: 1;
+    position: fixed;
+    top: 240px; 
+    left: 5px; 
+}
+
+#toggle-merdeka_118 { 
+    z-index: 1; 
+    position: fixed; 
+    top: 280px;
+    left: 5px;  
+} */
